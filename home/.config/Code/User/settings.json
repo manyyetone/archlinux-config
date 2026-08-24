@@ -1,0 +1,12 @@
+{
+    "editor.fontSize": 18,
+    "editor.accessibilityPageSize": 600,
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "leetcode.workspaceFolder": "/home/manyyetone/codespace",
+    "leetcode.defaultLanguage": "cpp",
+    "leetcode.problems.sortStrategy": "Acceptance Rate (Descending)",
+    "chat.disableAIFeatures": true,
+    "leetcode.hint.commandShortcut": false,
+    "leetcode.hint.configWebviewMarkdown": false
+
+}

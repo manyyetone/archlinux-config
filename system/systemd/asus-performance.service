@@ -1,0 +1,11 @@
+[Unit]
+Description=Set ASUS platform profile to performance
+After=multi-user.target
+
+[Service]
+Type=oneshot
+ExecStart=/bin/sh -c 'echo performance > /sys/firmware/acpi/platform_profile'
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target

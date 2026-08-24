@@ -1,0 +1,14 @@
+asusctl
+bibata-cursor-theme
+dracula-gtk-theme
+dracula-icons-git
+localsend-bin
+python-clickgen
+python-pkg_resources
+supergfxctl
+swaylock-effects
+ttf-apple-emoji
+visual-studio-code-bin
+wlogout
+yay
+yay-debug

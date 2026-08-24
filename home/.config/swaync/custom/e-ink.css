@@ -1,0 +1,21 @@
+/* E-INK THEME */
+
+@define-color bg0    #121212;
+@define-color bg1    #1c1c1c;
+@define-color bg2    #2a2a2a;
+@define-color bg3    #333333;
+@define-color bg4    #444444;
+
+@define-color fg     #e0e0e0;
+
+@define-color red    #e0e0e0;
+@define-color orange #e0e0e0;
+@define-color yellow #e0e0e0;
+@define-color green  #e0e0e0;
+@define-color aqua   #e0e0e0;
+@define-color blue   #e0e0e0;
+@define-color purple #e0e0e0;
+
+@define-color grey0  #555a5b;
+@define-color grey1  #888c94;
+@define-color grey2  #b9bdc2;

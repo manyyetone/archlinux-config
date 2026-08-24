@@ -1,0 +1,10 @@
+NAME        FSTYPE FSVER LABEL    UUID                                 FSAVAIL FSUSE% MOUNTPOINTS
+zram0       swap   1     zram0    98cf4a42-0f72-4d78-8c54-139ae94dcd99                [SWAP]
+nvme0n1                                                                               
+├─nvme0n1p1 vfat   FAT32 SYSTEM   C058-5FCE                                           
+├─nvme0n1p2                                                                           
+├─nvme0n1p3 ntfs         OS       EEBE5A3EBE5A000F                      255.8G    32% /mnt/windows
+├─nvme0n1p4 ntfs         RECOVERY E62CD4572CD423F9                                    
+├─nvme0n1p5 vfat   FAT32 MYASUS   D86D-E2E7                                           
+├─nvme0n1p6 vfat   FAT32          4E8F-3CDA                             935.3M     8% /boot
+└─nvme0n1p7 ext4   1.0            e6b150fc-2fde-4368-b731-e2f02ad6d87b   73.2G    19% /

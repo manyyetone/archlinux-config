@@ -1,0 +1,47 @@
+# Secrets / credentials
+**/.env
+**/.env.*
+**/*secret*
+**/*credential*
+**/*token*
+**/*password*
+**/*.pem
+**/*.key
+**/*.p12
+**/*.pfx
+
+# SSH / GPG
+**/.ssh/
+**/.gnupg/
+**/private-keys-v1.d/
+
+# Application data / caches
+**/cache/
+**/Cache/
+**/CacheStorage/
+**/GPUCache/
+**/Code Cache/
+**/CachedData/
+**/CachedExtensionVSIXs/
+**/logs/
+**/History/
+**/workspaceStorage/
+**/Local Storage/
+**/Session Storage/
+
+# Browser/application profiles
+**/mozilla/
+**/chromium/
+**/google-chrome/
+**/discord/
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*.swo
+*~
+
+# OS metadata
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "ctrl+'",
+        "command": "leetcode.testSolution"
+    },
+    {
+        "key": "ctrl+enter",
+        "command": "leetcode.submitSolution"
+    }
+]
